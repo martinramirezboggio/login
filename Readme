@@ -1,0 +1,8 @@
+./mongod --dbpath=
+
+
+Login RESTFULL API
+we can send the login credentials to the server to authenticate
+
+we can not list, or update a user if not authenticated.
+we can create a user, login and sign out.
